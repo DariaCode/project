@@ -1,8 +1,15 @@
 {
 	"quotes": [
-
 {
-       "quote":"Life isn’t about getting and having, it’s about giving and being.","author":"Kevin Kruse"},
+       "quote":"Be yourself; everyone else is already taken.","author":"Oscar Wilde"}	
+{
+       "quote":"Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.","author":"Albert Einstein"}	
+{
+       "quote":"So many books, so little time.","author":"Frank Zappa"}	
+{
+       "quote":"Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.","author":"Bernard M. Baruch"}
+{
+       "quote":"A room without books is like a body without a soul.","author":"Marcus Tullius Cicero"}	
 {
        "quote":"Whatever the mind of man can conceive and believe, it can achieve.","author":"Napoleon Hill"},
 {
@@ -205,5 +212,7 @@
        "quote":"The only way to do great work is to love what you do.","author":"Steve Jobs"},
 {
        "quote":"If you can dream it, you can achieve it.","author":"Zig Ziglar"}
+{
+       "quote":"Life isn’t about getting and having, it’s about giving and being.","author":"Kevin Kruse"},		
 ]
 }
